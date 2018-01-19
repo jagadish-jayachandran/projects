@@ -5,5 +5,6 @@
 4> create ionic project
 5> cd .. // back to repo page 
 6> git add . // to select all 
-7> git push //give git username and password
+7> git commit -m "Initial commit"
+8> git push //give git username and password
 
